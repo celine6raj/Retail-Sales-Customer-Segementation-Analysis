@@ -23,12 +23,12 @@ Retail businesses need to understand their sales trends and customer purchasing 
 
 5. Project Workflow
 
-1. Data Loading – Importing the retail dataset into Python.
-2. Data Cleaning – Handling missing values, duplicates and data inconsistencies.
-3. Data Preprocessing – Preparing the dataset for analysis.
-4. Exploratory Data Analysis – Exploring sales patterns and customer behaviour.
-5. Data Visualization – Representing findings through charts and graphs.
-6. Insights Generation – Identifying useful patterns from the analysis.
+- Data Loading – Importing the retail dataset into Python.
+- Data Cleaning – Handling missing values, duplicates and data inconsistencies.
+- Data Preprocessing – Preparing the dataset for analysis.
+- Exploratory Data Analysis – Exploring sales patterns and customer behaviour.
+- Data Visualization – Representing findings through charts and graphs.
+- Insights Generation – Identifying useful patterns from the analysis.
 
 6. Key Analysis Areas
 - Retail sales performance.
